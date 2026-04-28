@@ -1,7 +1,7 @@
 onload = () => {
   document.body.classList.remove("not-loaded");
 
-  const text = "Happy Birthday!!! You're as beautiful as this moment";
+  const text = "Gagal itu urusan nanti, yang terpenting kita berani untuk mencoba dan mencoba.";
   const titleElement = document.getElementById('title');
   const cursor = document.getElementById('cursor');
   let index = 0;
